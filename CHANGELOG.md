@@ -1,3 +1,9 @@
+## [3.1.9](https://github.com/appium/appium-ios-device/compare/v3.1.8...v3.1.9) (2026-01-28)
+
+### Miscellaneous Chores
+
+* Bump @appium/eslint-config-appium-ts from 2.0.5 to 3.0.0 ([#219](https://github.com/appium/appium-ios-device/issues/219)) ([7e01a38](https://github.com/appium/appium-ios-device/commit/7e01a3830ee7c412c6a62e673766dfae0ef05600))
+
 ## [3.1.8](https://github.com/appium/appium-ios-device/compare/v3.1.7...v3.1.8) (2026-01-27)
 
 ### Miscellaneous Chores
