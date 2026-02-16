@@ -1,3 +1,9 @@
+## [3.1.10](https://github.com/appium/appium-ios-device/compare/v3.1.9...v3.1.10) (2026-02-16)
+
+### Bug Fixes
+
+* format ([#220](https://github.com/appium/appium-ios-device/issues/220)) ([6e07fd4](https://github.com/appium/appium-ios-device/commit/6e07fd47ee06a7ae2f4fafe04a855066ba1a7267))
+
 ## [3.1.9](https://github.com/appium/appium-ios-device/compare/v3.1.8...v3.1.9) (2026-01-28)
 
 ### Miscellaneous Chores
